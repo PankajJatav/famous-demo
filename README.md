@@ -4,7 +4,7 @@ A famous js with node js Demo.
 
 ```bash
 git clone  https://github.com/PankajJatav/famous-demo.git
-cd engine-seed
+cd famous-demo
 # rm -rf .git && git init && git commit -m "Make it so" # optionally reset git history
 npm i # install dependencies
 ```
